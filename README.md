@@ -1,7 +1,5 @@
 # Course Registration Portal (Academia)
 
-PARV SHARMA(IMT2023514)
-
 ## 1. Problem Statement
 
 The goal of this project is to design and develop a **Course Registration Portal (Academia)** that is user-friendly and multifunctional. The portal should allow **Students, Faculty, and Administrators** to manage academic operations such as:
